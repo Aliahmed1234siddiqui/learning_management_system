@@ -1,0 +1,73 @@
+.main{
+  background-color: white;
+}
+.main1{
+  background-color: white;
+  width: 80vw;
+}
+.right{
+
+  padding: 20px;
+}
+.time{
+  position: absolute;
+  right: 15%;
+}
+.left{
+
+display: flex;
+flex-direction: column;
+align-items: center;
+padding:40px 0;
+}
+
+.cricle{
+  width: 150px;
+  height: 150px;
+  background-color: aqua;
+  border-radius: 75px;
+  padding: 70px;
+}
+
+.work1{
+  display: flex;
+  justify-content: space-between;
+}
+.hello{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+.app{
+height: 100vh;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+background-repeat: no-repeat;
+
+background-size: cover;
+background-image: url('https://t4.ftcdn.net/jpg/05/72/84/19/360_F_572841980_RKOXn7leguu0Cr7as9G0KvKHWYkDWMoq.jpg');
+}
+.yes{
+  display: flex;
+  justify-content: space-evenly;
+
+}
+.ma{
+  height: 100vh;
+  width: 100%;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+.end{
+  background-color: aqua;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.screen{
+height: 100vh;
+
+}
